@@ -1,0 +1,20 @@
+# Data packages
+pandas
+numpy
+scipy 
+pandas-gbq
+scikit-learn
+seaborn
+matplotlib
+plotly
+joblib
+scikit-learn
+
+# SDK Google
+google-cloud-bigquery
+google-cloud-bigquery-logging
+google-cloud-bigquery-storage
+google-cloud-storage
+google-cloud-firestore
+google-cloud-pubsub
+google-cloud-secret-manager
