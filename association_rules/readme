@@ -1,0 +1,2 @@
+# OVERALL
+This code performs association rule mining on transaction data using the mlxtend library, with support from the Google Cloud Platform's BigQuery database. The resulting association rules can be used for various applications, such as product recommendations or market basket analysis.
