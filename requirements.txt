@@ -9,6 +9,7 @@ matplotlib
 plotly
 joblib
 scikit-learn
+mlxtend
 
 # SDK Google
 google-cloud-bigquery
